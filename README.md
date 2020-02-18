@@ -14,7 +14,7 @@
 - 소프트웨어 품질 관리
 - git을 이용한 형상관리
 - blender를 이용한 gazebo 모델링
-- [엘리베이터 이용 가능한 다층 이동 로봇 논문](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=c070c6e21caaba51ffe0bdc3ef48d419)
+- [엘리베이터 이용 가능한 다층 이동 로봇 논문에 대한 기능 학습](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=c070c6e21caaba51ffe0bdc3ef48d419)
 
 #### 봉사활동 및 대외활동
 - 2018.7.14, 소프트웨어 콘서트, 보조강사(파이썬 교육)
