@@ -31,3 +31,8 @@
 - 운영체제: Windows, Linux, mac OS
 - 임베디드: Arduino Uno, Erle-brain, Raspberry PI
 - 기타: 안드로이드, OpenGL 
+
+
+![./turtlebot2.jpg](./turtlebot2.jpg)
+
+![./joint_state_publisher.gif](./joint_state_publisher.gif)
