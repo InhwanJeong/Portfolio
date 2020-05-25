@@ -31,7 +31,11 @@
 - 운영체제: Windows, Linux, mac OS
 - 임베디드: Arduino Uno, Erle-brain, Raspberry PI
 - 기타: 안드로이드, OpenGL 
+- 백엔드: Spring, Spring boot, flask, Nodejs
 
+
+#### 블로그
+https://inhwanjeong.tistory.com/
 
 ![./turtlebot2.jpg](./turtlebot2.jpg)
 
