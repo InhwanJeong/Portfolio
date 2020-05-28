@@ -33,7 +33,26 @@
 - 기타: 안드로이드, OpenGL 
 - 백엔드: Spring, Spring boot, flask, Nodejs
 
+## 프로젝트 경험
 
+#### C on Linux
+- [리눅스에서 빌드하는 방법(정적, 공유, 동적 라이브러리, MAKE)](https://github.com/InhwanJeong/lab2)
+- [파일처리, 프로세스와 시그널, 프로세스간 통신](https://github.com/InhwanJeong/lab3)
+- [소켓, 스레드, GUI](https://github.com/InhwanJeong/lab4)
+- [나만의 쉘 만들기- 2인 프로젝트](https://github.com/InhwanJeong/Shell-Program)
+  - 구현한 기능 (1) csh, bash 등에서처럼 인터럽트키 (SIGINT: Ctrl-C, SIGQUIT: Ctrl-Z) 가 동작하도록 프로그램을 수정하시오.
+    - 인터럽트를 이용하여 시그널을 조작해 원하는 키보드키에 원하는 기능을 하도록 조작하였습니다.
+  - 구현한 기능 (2) 파일 재지향 (>, <) 기능이 가능하도록 프로그램을 수정하시오.
+    - 쉘 안에서 파일 재지향 기능을 사용할 수 있도록 기능을 추가하였습니다.
+  - 구현한 기능 (3) 백그라운드 동작 &
+    - 직접 만든 쉘 프로그램 내에서 백그라운드 기능이 동작할 수 있도록 하였습니다.
+ 
+#### Andriod
+- [DayLight 프로젝트 - 4인 프로젝트](https://github.com/InhwanJeong/DayLight)
+  - 구현한 기능 (1):오픈소스인 스와이프레이아웃을 이용하여 일정에 공유, 업데이트, 삭제 기능을 추가하였습니다.([이용한 스와이프 오픈소스](https://github.com/chthai64/SwipeRevealLayout)
+  - 구현한 기능 (2): 테이블 레이아웃을 이용하여 메인화면을 구성했습니다.
+  - 그외 아이디어 및 여러가지 작은 기능들 구현
+ 
 #### 블로그
 https://inhwanjeong.tistory.com/
 
