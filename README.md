@@ -75,6 +75,13 @@
   - 1. GRASP 설계 패턴 적용
   - 2. 디자인 패턴 적용
   
+#### Java
+- [내손을 자바 프로젝트 - 5인 프로젝트](https://github.com/InhwanJeong/Take_my_hand)
+  - 구현한 기능 (1) 소켓을 이용하여 공공데이터 API를 받아와서 원하는 데이터만 가져갈 수 있도록 파싱 기능 설계 및 구현
+  - 구현한 기능 (2) 아파치 웹서버 구축 및 PHP를 이용하여 동적페이지 생성
+  - 구현한 기능 (3) 카카오 API(JavaScripts)를 활용하여 지도 생성
+
+  
 #### 블로그
 https://inhwanjeong.tistory.com/
 
