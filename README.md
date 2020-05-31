@@ -30,7 +30,7 @@
 - 언어: C,C++, java, python, html, css, js, jsp, sql
 - 운영체제: Windows, Linux, mac OS
 - 임베디드: Arduino Uno, Erle-brain, Raspberry PI
-- 기타: 안드로이드, OpenGL 
+- 기타: 안드로이드, OpenGL, Elastic Search, 자료구조, 
 - 백엔드: Spring, Spring boot, flask, Nodejs
 
 ## 프로젝트 경험
