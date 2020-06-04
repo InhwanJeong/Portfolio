@@ -1,9 +1,12 @@
 # Portfolio
 동의대컴퓨터소프트웨어공학 4학년 정인환 포트폴리오
 
+#### 블로그 https://inhwanjeong.tistory.com/
+
 ## 연구실
 
 동의대학교 이종민 교수님의 Parallel Computing & Wireless Networks & Robot 연구실 소속
+
 
 ###### 2018년 5월~ 
 
@@ -89,9 +92,7 @@
   - 구현한 기능 (3) 카카오 API(JavaScripts)를 활용하여 지도 생성
   - 구현한 기능 (4) 지도 위에 들어갈 아이콘 제작 및 PHP, javascripts를 이용하여 지도 위 아이콘 생성
 
-  
-#### 블로그
-https://inhwanjeong.tistory.com/
+
 
 ![./turtlebot2.jpg](./turtlebot2.jpg)
 
