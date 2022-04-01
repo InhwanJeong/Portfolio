@@ -116,9 +116,3 @@
 </details>
 
 </details>
-
-<details>
-<summary>2. (주)경***** 2020년 9월 ~ </summary>
-<br>
-  
-</details>
