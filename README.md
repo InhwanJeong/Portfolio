@@ -3,11 +3,7 @@
 #### 블로그 https://inhwanjeong.tistory.com/
 
 
-
-
-<details>
-<summary>1. 동의대컴퓨터소프트웨어공학 4학년 정인환 포트폴리오</summary>
-  <br>
+1. 동의대컴퓨터소프트웨어공학 4학년 정인환 포트폴리오
   <details>
   <summary>(1) 연구실, 2018년 5월~ 2020년 6월</summary>
   <br>
@@ -115,4 +111,3 @@
 
 </details>
 
-</details>
